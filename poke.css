@@ -6,7 +6,6 @@
 }
 
 .card {
-    background-color: beige;
     border-radius: 7px;
     padding: 20px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
@@ -16,4 +15,10 @@
 header{
     align-items: center;
     justify-content: center;
+}
+
+.modal-button{
+    border-radius: 4px;
+    border: none;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
